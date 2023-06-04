@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grain", "Grain\Grain.csproj", "{2383C04B-E4A1-4847-ABFB-CA09CE6928EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainTester", "GrainTester\GrainTester.csproj", "{7692F95E-4612-48A3-89B4-C7623C8E26EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F2684F1-C13A-41E6-8801-A6CC39FCC939}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		DOC.md = DOC.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2383C04B-E4A1-4847-ABFB-CA09CE6928EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2383C04B-E4A1-4847-ABFB-CA09CE6928EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2383C04B-E4A1-4847-ABFB-CA09CE6928EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2383C04B-E4A1-4847-ABFB-CA09CE6928EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7692F95E-4612-48A3-89B4-C7623C8E26EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7692F95E-4612-48A3-89B4-C7623C8E26EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7692F95E-4612-48A3-89B4-C7623C8E26EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7692F95E-4612-48A3-89B4-C7623C8E26EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8FB4D34-92C2-4DDC-81B6-AA855F240133}
+	EndGlobalSection
+EndGlobal
